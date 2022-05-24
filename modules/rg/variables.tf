@@ -11,8 +11,3 @@ variable "resource_group_name" {
   type        = string
   default     = "tf_demo_rg_grp"
 }
-
-
-
-
-
