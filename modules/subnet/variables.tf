@@ -14,8 +14,3 @@ variable "vnet_name" {
   description = "vnet name"
   default = "myVnet"
 }
-
-
-
-
-
