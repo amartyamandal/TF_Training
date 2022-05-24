@@ -9,9 +9,3 @@ variable "resource_group_name" {
   description = "kv rsgrp name"
   default = "tf_demo_rg_grp"
 }
-
-
-
-
-
-
